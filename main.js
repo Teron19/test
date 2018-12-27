@@ -6,7 +6,8 @@ function setMiller() {
         sum += i;
         console.log(sum);
     }
-}
+}fdg
 setMiller();
+gdf
 
-
+dfgdfgdf
